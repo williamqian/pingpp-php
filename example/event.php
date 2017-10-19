@@ -4,7 +4,7 @@
  * User: shenlin
  * Date: 15/5/14
  * Time: 17:30
- */
+ * /
 
 require dirname(__FILE__) . '/../init.php';
 // 示例配置文件，测试请根据文件注释修改其配置
